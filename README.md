@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jerome Evangelista
 
-**Software Engineer | Lead Web Programmer at CodexMS**  
+**Software Engineer | Web Developer**  
 
 Welcome to my coding world! 🚀 I'm passionate about technology, software development, and building meaningful projects that make an impact.
 
