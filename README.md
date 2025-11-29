@@ -13,7 +13,7 @@ Welcome to my coding world! 🚀 I'm passionate about technology, software devel
 ## 👀 About Me
 - Experienced **Software Engineer and Web Developer** with a passion for creating efficient and scalable solutions.  
 - Sole **Web Programmer at CodexMS**, specializing in full-stack development and innovative web applications.  
-- Enthusiast in **Cybersecurity, IoT, Embedded Systems, and AI Integration**.  
+- Enthusiast in **Cybersecurity, IoT, Embedded Systems, AI Integration, and Cloud Hosting**.  
 - Open to **collaborations and exciting projects** that challenge my skills and creativity.  
 
 ---
@@ -25,6 +25,7 @@ Welcome to my coding world! 🚀 I'm passionate about technology, software devel
 **Cybersecurity Tools & Frameworks:** Suricata, Snort, Wireshark  
 **IoT & Hardware:** Raspberry Pi, Arduino, SQLite, Android Development  
 **AI & Machine Learning:** TensorFlow, PyTorch, OpenAI API, LangChain  
+**Cloud & Hosting:** DigitalOcean, AWS, Namecheap, cPanel, WordPress  
 **Tools & Platforms:** Git, GitHub, VS Code, Docker, Linux  
 **Other Skills:** Web development, API integration, Database management, Software development  
 
