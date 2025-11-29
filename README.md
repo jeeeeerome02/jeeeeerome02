@@ -20,8 +20,8 @@ Welcome to my coding world! 🚀 I'm passionate about technology, software devel
 
 ## 💻 Tech Stack & Skills
 
-**Programming & Scripting:** JavaScript, Python, Node-RED, PHP, HTML, CSS, SQL  
-**Frameworks & Libraries:** Laravel, Node.js, React, Next.js  
+**Programming & Scripting:** JavaScript, Python, PHP, HTML, CSS, SQL  
+**Frameworks & Libraries:** Laravel, Node.js, Node-RED, React, Next.js  
 **Cybersecurity Tools & Frameworks:** Suricata, Snort, Wireshark  
 **IoT & Hardware:** Raspberry Pi, Arduino, SQLite, Android Development  
 **AI & Machine Learning:** TensorFlow, PyTorch, OpenAI API, LangChain  
