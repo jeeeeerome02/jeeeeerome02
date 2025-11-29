@@ -13,14 +13,18 @@ Welcome to my coding world! 🚀 I'm passionate about technology, software devel
 ## 👀 About Me
 - Experienced **Software Engineer and Web Developer** with a passion for creating efficient and scalable solutions.  
 - Lead **Web Programmer at CodexMS**, specializing in full-stack development and innovative web applications.  
+- Enthusiast in **Cybersecurity, IoT, and Embedded Systems**.  
 - Open to **collaborations and exciting projects** that challenge my skills and creativity.  
 
 ---
 
 ## 💻 Tech Stack & Skills
-**Languages:** JavaScript, PHP, Python, HTML, CSS, SQL  
-**Frameworks & Libraries:** Laravel, Node.js, React  
-**Tools & Platforms:** Git, GitHub, VS Code, MySQL, Docker, Linux  
+
+**Programming & Scripting:** JavaScript, Python, Node-RED, PHP, HTML, CSS, SQL  
+**Frameworks & Libraries:** Laravel, Node.js, React, Next.js  
+**Cybersecurity Tools & Frameworks:** Suricata, Snort, Wireshark  
+**IoT & Hardware:** Raspberry Pi, Arduino, SQLite, Android Development  
+**Tools & Platforms:** Git, GitHub, VS Code, Docker, Linux  
 **Other Skills:** Web development, API integration, Database management, Software development  
 
 ---
