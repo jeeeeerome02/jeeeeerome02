@@ -13,7 +13,7 @@ Welcome to my coding world! 🚀 I'm passionate about technology, software devel
 ## 👀 About Me
 - Experienced **Software Engineer and Web Developer** with a passion for creating efficient and scalable solutions.  
 - Lead **Web Programmer at CodexMS**, specializing in full-stack development and innovative web applications.  
-- Enthusiast in **Cybersecurity, IoT, and Embedded Systems**.  
+- Enthusiast in **Cybersecurity, IoT, Embedded Systems, and AI Integration**.  
 - Open to **collaborations and exciting projects** that challenge my skills and creativity.  
 
 ---
@@ -24,19 +24,27 @@ Welcome to my coding world! 🚀 I'm passionate about technology, software devel
 **Frameworks & Libraries:** Laravel, Node.js, React, Next.js  
 **Cybersecurity Tools & Frameworks:** Suricata, Snort, Wireshark  
 **IoT & Hardware:** Raspberry Pi, Arduino, SQLite, Android Development  
+**AI & Machine Learning:** TensorFlow, PyTorch, OpenAI API, LangChain  
 **Tools & Platforms:** Git, GitHub, VS Code, Docker, Linux  
 **Other Skills:** Web development, API integration, Database management, Software development  
 
 ---
 
 ## 🚀 Projects
-Here are some of my notable projects:
 
+### Web & Software Projects
 | Project | Description | Link |
 |---------|-------------|------|
 | **CodexMS Web App** | Lead web programming for a management system | [Repo](https://github.com/jeeeeerome02) |
 | **Personal Portfolio** | Showcase of my projects and skills | [Repo](https://github.com/jeeeeerome02) |
 | **Open Source Contributions** | Various contributions to community projects | [GitHub](https://github.com/jeeeeerome02) |
+
+### AI Integration Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| **AI Chatbot Web App** | Integrated AI chatbot using OpenAI API for customer support | [Repo](https://github.com/jeeeeerome02) |
+| **Automated Data Analysis** | Python-based AI scripts for processing and visualizing large datasets | [Repo](https://github.com/jeeeeerome02) |
+| **AI-powered IoT Dashboard** | Connected IoT devices with AI prediction models for smart monitoring | [Repo](https://github.com/jeeeeerome02) |
 
 *(More projects available on my [GitHub](https://github.com/jeeeeerome02))*  
 
