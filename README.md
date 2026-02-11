@@ -5,7 +5,7 @@
 Welcome to my coding world! 🚀 I'm passionate about technology, software development, and building meaningful projects that make an impact.
 
 [![GitHub followers](https://img.shields.io/github/followers/jeeeeerome02?label=Follow&style=social)](https://github.com/jeeeeerome02)  
-[![Telegram](https://img.shields.io/badge/Telegram-@rain_0221-blue)](https://t.me/rain_0221)  
+[![Telegram](https://img.shields.io/badge/Telegram-@jeeeeerome-blue)](https://t.me/jeeeeerome)  
 [![Email](https://img.shields.io/badge/Email-jeromeevangelista0221@gmail.com-red)](mailto:jeromeevangelista0221@gmail.com)
 
 ---
