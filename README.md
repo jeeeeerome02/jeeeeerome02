@@ -10,7 +10,7 @@ Welcome to my coding world! 🚀 I'm passionate about technology, software devel
 
 ---
 
-## 👀 About Me
+## 🧑‍💻 About Me
 - Experienced **Software Engineer and Web Developer** with a passion for creating efficient and scalable solutions.  
 - Sole **Web Programmer at CodexMS**, specializing in full-stack development and innovative web applications.
 - Enthusiast in **Cybersecurity, IoT, Embedded Systems, AI Integration, and Cloud Hosting**.  
