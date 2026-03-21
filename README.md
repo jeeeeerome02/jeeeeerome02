@@ -1,86 +1,61 @@
-<div align="center">
-
 # Jerome Evangelista
-
-**Software Engineer • Web Developer**
-
-Building scalable systems, modern web applications, and intelligent solutions through clean and efficient code.
-
-<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/jeeeeerome02?label=Follow&style=social)](https://github.com/jeeeeerome02)
 [![Telegram](https://img.shields.io/badge/Telegram-@jeeeeerome-blue)](https://t.me/jeeeeerome02)
 [![Email](https://img.shields.io/badge/Email-jeromeevangelista0221@gmail.com-red)](mailto:jeromeevangelista0221@gmail.com)
 
-</div>
+Software Engineer specializing in building scalable web applications, APIs, and integrated systems. Experienced in full-stack development, IoT solutions, and AI-powered features. Focused on writing clean, maintainable, and efficient code that solves real-world problems.
 
----
-
-## Profile
-
-I develop reliable and scalable software solutions with focus on performance, maintainability, and usability. My work includes full-stack development, API engineering, IoT systems, and applied AI integration.
-
-As the sole Web Programmer at CodexMS, I manage the full development lifecycle from architecture planning to deployment. I value structured code, efficient systems, and technologies that create real impact.
+Currently the sole Web Programmer at CodexMS, responsible for system architecture, development, and deployment.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,python,php,html,css,sql&perline=8" height="28"/>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,python,php,html,css,sql" />
+**Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,nextjs,vue,nuxt&perline=8" height="28"/>
 
-### Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,react,nextjs,vue,nuxt" />
+**UI**
+<br>
+<img src="https://skillicons.dev/icons?i=tailwind&perline=8" height="28"/> Radix UI • Volt UI
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=8" height="28"/>
 
-### Cloud
-<img src="https://skillicons.dev/icons?i=aws" />
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=8" height="28"/>
 
-</div>
+**Cloud**
+<br>
+<img src="https://skillicons.dev/icons?i=aws&perline=8" height="28"/> DigitalOcean • Namecheap • cPanel
 
----
-
-## Specializations
-
-| Area | Technologies |
-|------|-------------|
-| Frontend Development | Vue.js, Nuxt 3, React, Next.js |
-| Backend Development | Laravel, Node.js, PHP |
-| UI Systems | Radix UI, Volt UI |
-| Databases | MySQL, SQLite |
-| Cybersecurity | Suricata, Snort, Wireshark |
-| IoT Development | Raspberry Pi, Arduino |
-| AI Integration | OpenAI API, TensorFlow, PyTorch, LangChain |
-| DevOps | Docker, Linux |
+**Other**
+<br>
+Suricata • Snort • Wireshark • Raspberry Pi • Arduino • OpenAI API • TensorFlow • PyTorch • LangChain • Node-RED
 
 ---
 
-## GitHub Stats
+## Focus Areas
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jeeeeerome02&show_icons=true&hide_border=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeeeerome02&layout=compact&hide_border=true" height="165">
-
-</div>
+- Full-stack web development
+- API design and integration
+- System architecture
+- AI-assisted applications
+- IoT development
+- Database design and optimization
+- Scalable and maintainable software systems
 
 ---
 
 ## Contact
 
-- Email: jeromeevangelista0221@gmail.com
-- Telegram: https://t.me/jeeeeerome02
-- GitHub: https://github.com/jeeeeerome02
-
----
-
-<div align="center">
-
-Focused on building maintainable, scalable, and efficient software systems.
-
-</div>
+Email: jeromeevangelista0221@gmail.com  
+Telegram: https://t.me/jeeeeerome02  
+GitHub: https://github.com/jeeeeerome02
