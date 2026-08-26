@@ -40,7 +40,7 @@ Currently a Software Engineer at LYNC Solutions Inc. and the sole Junior Web Dev
 
 <p>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="26" alt="AWS" /></a> &nbsp;
-  <a href="https://www.digitalocean.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/digitalocean/digitalocean-original.svg" height="26" alt="DigitalOcean" /></a> DigitalOcean &nbsp;
+  <a href="https://www.digitalocean.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/digitalocean/digitalocean-original.svg" height="26" alt="DigitalOcean" /></a>&nbsp;
   <a href="https://www.namecheap.com/"><img src="https://cdn.simpleicons.org/namecheap/DE3723" height="26" alt="Namecheap" /></a> &nbsp;
   <a href="https://cpanel.net/"><img src="https://cdn.simpleicons.org/cpanel/FF6C2C" height="26" alt="cPanel" /></a>
 </p>
