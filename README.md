@@ -24,7 +24,7 @@ Currently a Software Engineer at LYNC Solutions Inc. and the sole Junior Web Dev
 ### UI
 
 <p>
-  <a href="https://www.radix-ui.com/"><img src="https://avatars.githubusercontent.com/u/75042455?s=200&amp;v=4" height="26" alt="Radix UI" /></a> &nbsp;
+  <a href="https://www.radix-ui.com/"><img src="https://avatars.githubusercontent.com/u/75042455?s=200&amp;v=4" height="26" alt="Radix UI" /></a>&nbsp;
   <a href="https://volt.primevue.org/"><img src="https://raw.githubusercontent.com/primefaces/primevue/master/apps/volt/public/favicon.ico" height="26" alt="Volt UI" /></a>
 </p>
 
