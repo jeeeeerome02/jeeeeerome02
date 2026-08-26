@@ -24,8 +24,8 @@ Currently a Software Engineer at LYNC Solutions Inc. and the sole Junior Web Dev
 ### UI
 
 <p>
-  <a href="https://www.radix-ui.com/"><img src="https://avatars.githubusercontent.com/u/75042455?s=200&amp;v=4" height="26" alt="Radix UI" /></a> Radix UI &nbsp;
-  <a href="https://volt.primevue.org/"><img src="https://raw.githubusercontent.com/primefaces/primevue/master/apps/volt/public/favicon.ico" height="26" alt="Volt UI" /></a> Volt UI
+  <a href="https://www.radix-ui.com/"><img src="https://avatars.githubusercontent.com/u/75042455?s=200&amp;v=4" height="26" alt="Radix UI" /></a> &nbsp;
+  <a href="https://volt.primevue.org/"><img src="https://raw.githubusercontent.com/primefaces/primevue/master/apps/volt/public/favicon.ico" height="26" alt="Volt UI" /></a>
 </p>
 
 ### Database
@@ -39,10 +39,10 @@ Currently a Software Engineer at LYNC Solutions Inc. and the sole Junior Web Dev
 ### Cloud
 
 <p>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="26" alt="AWS" /></a> AWS &nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" height="26" alt="AWS" /></a> &nbsp;
   <a href="https://www.digitalocean.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/digitalocean/digitalocean-original.svg" height="26" alt="DigitalOcean" /></a> DigitalOcean &nbsp;
-  <a href="https://www.namecheap.com/"><img src="https://cdn.simpleicons.org/namecheap/DE3723" height="26" alt="Namecheap" /></a> Namecheap &nbsp;
-  <a href="https://cpanel.net/"><img src="https://cdn.simpleicons.org/cpanel/FF6C2C" height="26" alt="cPanel" /></a> cPanel
+  <a href="https://www.namecheap.com/"><img src="https://cdn.simpleicons.org/namecheap/DE3723" height="26" alt="Namecheap" /></a> &nbsp;
+  <a href="https://cpanel.net/"><img src="https://cdn.simpleicons.org/cpanel/FF6C2C" height="26" alt="cPanel" /></a>
 </p>
 
 ### Other
