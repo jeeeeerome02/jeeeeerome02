@@ -6,7 +6,6 @@
 
 Software Engineer specializing in scalable web applications, APIs, and integrated systems. Focused on clean architecture, maintainable code, and practical solutions that deliver real-world impact.
 
-Currently a Software Engineer at LYNC Solutions Inc. and the sole Junior Web Developer at CodexMS, responsible for designing, developing, and deploying production-ready systems.
 
 ---
 
